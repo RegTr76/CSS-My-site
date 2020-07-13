@@ -101,6 +101,11 @@ border: solid 5px;
   margin: 40px auto 60px;
 }
 
+.footer-link{
+  color:#086972;
+  text-decoration: underline;
+}
+
 .copyright {
   color: #EAF6F6;
   font-size: 0.75rem;
